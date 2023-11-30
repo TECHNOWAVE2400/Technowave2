@@ -1,8 +1,21 @@
-.App {
-    text-aligin: center;
+body{
+    background: lightgreen;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: auto;
+    padding: 0.5rem 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
-
-.App-logo {
-helight: 40vnin
-pointer-events: none;
+button{
+    background-color: lightblue;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 90px;
 }
+button a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
